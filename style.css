@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: red;
+    height: 165px;
+    width: 100%;
+}
+.im0{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: right;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 50px;
+    border: 4px solid border white;
+}
+    .res{
+        color:white
+    }
+    h3{
+        color:white
+    }
+    h6{
+        color:white
+    }
+    .eco{
+        color: white;
+    }
+    * {
+        box-sizing: border-box;
+      }
+      
+      /* Create four equal columns that floats next to each other */
+      .col1 {
+        float: left;
+        width: 8%;
+        padding: 10px;
+        /* height: 300px; Should be removed. Only for demonstration */
+      }
+            /* Create four equal columns that floats next to each other */
+            .col2 {
+                float: left;
+                width: 5%;
+                padding: 10px;
+                /* height: 300px; Should be removed. Only for demonstration */
+              }
+                    /* Create four equal columns that floats next to each other */
+      .col3 {
+        float: left;
+        width: 53.61%;
+        padding: 10px;
+        margin-top: -14px;
+        /* height: 300px; Should be removed. Only for demonstration */
+      }
+            /* Create four equal columns that floats next to each other */
+            .col4 {
+                float: left;
+                width: 33.39%;
+                padding: 10px;
+                margin-top: -25px;
+
+                /* height: 300px; Should be removed. Only for demonstration */
+              }
+      
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+      h1{
+        color: red;
+        padding-left: 20px;
+    }
+.col-4{
+  background-color:rgb(240, 207, 215);
+  /* column-rule-color:rgb(140, 152, 163) ; */
+}
+.im1{
+    height: 30%;
+    width: 90px;
+    padding-left:20px ;
+    padding-top: 20px;
+}
+.im2{
+    height: 30%;
+    width: 90px;
+    padding-left:20px ;
+    padding-top: 20px;
+}
+.verticalLine {
+    border-left: thick solid #9591ec;
+  }
+  .vl {
+    border-left: 2px solid rgb(140, 152, 163);
+    height: 250px;
+    margin-left:54%;
+    /* margin-top: -39%; */
+  }
+  .nod1{
+    color:rgb(110, 115, 121);
+  }
+  .im3{
+    height: 30%;
+    width: 90px;
+    padding-left:20px ;
+    padding-top: 20px;}
+    small{
+        color: rgb(136, 146, 146);;  
+      }
+      .im4{
+        height: 30%;
+        width: 90px;
+        padding-left:20px ;
+        padding-top: 20px;}
+        .icon i{
+          color: red;
+      }
+      footer{
+        background-color: red;
+        height: 15px;
+        width:100%;
+      }
